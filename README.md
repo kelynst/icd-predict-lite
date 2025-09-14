@@ -1,2 +1,2 @@
 # icd-predict-lite
-A Python project exploring automation and classification of ICD medical codes from clinical text.
+Lightweight experiments for ICD code prediction with Python + automation
